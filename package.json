@@ -1,0 +1,14 @@
+{
+  "name": "03-response-file",
+  "version": "1.0.0",
+  "description": "Response with a HTML file",
+  "main": "index.js",
+  "scripts": {
+    "test": "set DEBUG=03-response-file:* & nodemon index.js"
+  },
+  "author": "ywdeng",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.4"
+  }
+}
